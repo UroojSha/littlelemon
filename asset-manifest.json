@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5172ec7a.css",
+    "main.js": "/static/js/main.b1ba73a5.js",
+    "static/js/787.418f6ecc.chunk.js": "/static/js/787.418f6ecc.chunk.js",
+    "static/media/Mario and Adrian b.jpg": "/static/media/Mario and Adrian b.6ba0e06bfa9c1ea75109.jpg",
+    "static/media/restaurant chef B.jpg": "/static/media/restaurant chef B.4b4c2d26b514db32e8fc.jpg",
+    "static/media/greek salad.jpg": "/static/media/greek salad.bed423a1fab5b210e347.jpg",
+    "static/media/restauranfood.jpg": "/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
+    "static/media/restaurant.jpg": "/static/media/restaurant.324d0f99bdf19400a0f7.jpg",
+    "static/media/Logo.svg": "/static/media/Logo.6c132dfefa69396bba43.svg",
+    "index.html": "/index.html",
+    "main.5172ec7a.css.map": "/static/css/main.5172ec7a.css.map",
+    "main.b1ba73a5.js.map": "/static/js/main.b1ba73a5.js.map",
+    "787.418f6ecc.chunk.js.map": "/static/js/787.418f6ecc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5172ec7a.css",
+    "static/js/main.b1ba73a5.js"
+  ]
+}{
+  "files": {
+    "main.css": "/static/css/main.5172ec7a.css",
+    "main.js": "/static/js/main.b1ba73a5.js",
+    "static/js/787.418f6ecc.chunk.js": "/static/js/787.418f6ecc.chunk.js",
+    "static/media/Mario and Adrian b.jpg": "/static/media/Mario and Adrian b.6ba0e06bfa9c1ea75109.jpg",
+    "static/media/restaurant chef B.jpg": "/static/media/restaurant chef B.4b4c2d26b514db32e8fc.jpg",
+    "static/media/greek salad.jpg": "/static/media/greek salad.bed423a1fab5b210e347.jpg",
+    "static/media/restauranfood.jpg": "/static/media/restauranfood.e8abf5b772b6817189aa.jpg",
+    "static/media/restaurant.jpg": "/static/media/restaurant.324d0f99bdf19400a0f7.jpg",
+    "static/media/Logo.svg": "/static/media/Logo.6c132dfefa69396bba43.svg",
+    "index.html": "/index.html",
+    "main.5172ec7a.css.map": "/static/css/main.5172ec7a.css.map",
+    "main.b1ba73a5.js.map": "/static/js/main.b1ba73a5.js.map",
+    "787.418f6ecc.chunk.js.map": "/static/js/787.418f6ecc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5172ec7a.css",
+    "static/js/main.b1ba73a5.js"
+  ]
+}
